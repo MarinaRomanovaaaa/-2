@@ -1,0 +1,136 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 22px;
+    background: rgb(245, 204, 204);
+    padding-left: 20px;
+    padding-right: 20px;  
+    text-align: center;
+}
+h1,h2{
+    text-align: center;
+}
+h1{
+    font-size: 42px;
+    font-style: italic;
+   
+    padding-top: 20px;
+}
+.p1{
+     padding-left: 50px;
+    padding-right: 50px;
+    margin-top: 10px;
+}
+.p2{
+    margin-top: 50px;
+}
+
+h2{
+ font-size: 38px;
+    padding-top: 35px;
+}
+
+.p3{
+    padding-left: 10px;
+    padding-right: 10px;   
+}
+
+.danceimages{
+    margin-left: 100px;
+    padding-top: 25px;
+    display: flex;
+    
+}
+
+.danceimage1{
+    width: 370px;
+    height: 400px;
+}
+.danceimage2{
+    width: 400px;
+    height: 280px;
+    margin-right: 15px;
+}
+
+.danceimage3{
+    width: 300px;
+    height: 280px;
+    margin-right: 15px;
+}
+
+.danceimage4{
+  
+    width: 400px;
+    height: 280px;
+    margin-right: 15px;
+}
+.cakesimages{
+    display: flex;
+    padding-top: 15px;
+}
+.cakesimage1{
+    width: 370px;
+    height: 380px;
+    margin-right: 45px;
+    margin-left:  250px;
+}
+.cakesimage2{
+    width: 370px;
+    height: 380px;
+}
+.table{
+margin-left: 450px;
+margin-top: 15px;
+}
+.music{
+    display: flex;
+}
+.musicimg{
+    width: 20%;
+    height: 20%;
+    margin-left: 50px;
+}
+.spisok{
+    display: flex;
+    flex-direction: row;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+ul{
+    margin-left: 80px;
+    text-align: left;
+}
+ol{
+    text-align: left;
+
+}
+.p6{
+    padding-top: 25px;
+margin-left: 50px;
+margin-right: 50px;
+}
+.formtext{
+    font-weight: 800;
+    text-align: left;
+}
+
+  table {
+    border-collapse: collapse; 
+    line-height: 1.1;
+    color: #0C213B;
+    border: 3px solid #720000 ;
+  }
+
+ 
+  th {
+    padding: 10px; 
+    border: 2px solid solid #720000 ;
+  }
+  td {
+    font-size: 0.8em;
+    padding: 5px 7px;
+    border: 2px solid #720000 ;
+  }
